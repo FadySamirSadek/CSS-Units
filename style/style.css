@@ -86,3 +86,21 @@
 	width: 50vmin;
 	background-color: rgb(244,101,93);
 }
+/*exandch*/
+.exandch{
+	background-color: rgb(244,101,93);
+}
+.ex , .ex2{
+	font-size: 4ex;
+}
+.ch , .ch2{
+	font-size: 4ch;
+}
+.ex , .ch {
+font-family: serif;
+}
+.ex2 , .ch2 {
+font-family: sans-serif;
+}
+
+
