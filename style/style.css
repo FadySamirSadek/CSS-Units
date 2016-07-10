@@ -1,0 +1,42 @@
+.header{
+	background-color: rgb(244,101,93);
+	position: absolute;
+	top:0;
+	left:0;
+	min-width: 100%;
+
+}
+.logo{
+	font-family: tahoma;
+	color: white;
+	padding-left: 20px;
+}
+.content{
+	position: relative;
+	top: 70px;
+}
+.absolute > div{
+	font-size:16px;
+	white-space: nowrap;    /* This is used to prevent the text from taking the div size*/
+	background-color: rgb(40,160,200);
+	padding: 25px;
+}
+/*The contents of the toutorial start here*/
+.pixels{
+	width: 5px;
+}
+.centimeters{
+	width: 5cm;
+}
+.millimeters{
+	width:5mm;
+}
+.inches{
+	width:5in;
+}
+.points{
+	width:5pt;
+}
+.picas{
+	width:5pc;
+}
