@@ -68,8 +68,15 @@
 	font-size: 0.5em;
 
 }
+/*rems*/
 .childrem{
 	font-size: 1rem;
 	background-color: rgb(0,185,165);
 
+}
+/*vh and vw*/
+.vhandvw{
+	height: 50vh;
+	width: 50vw;
+	background-color: rgb(244,101,93);
 }
