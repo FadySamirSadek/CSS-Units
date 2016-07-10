@@ -22,6 +22,7 @@
 	padding: 25px;
 }
 /*The contents of the toutorial start here*/
+/*Absolute Lengths*/
 .pixels{
 	width: 5px;
 }
@@ -39,4 +40,16 @@
 }
 .picas{
 	width:5pc;
+}
+/*Relative Lengths*/
+.parent{
+	height: 500px;
+	width: 500px;
+	background-color: rgb(244,101,93);
+
+}
+.child{
+	height: 50%;
+	widows: 50%;
+	background-color: rgb(40,160,200);
 }
