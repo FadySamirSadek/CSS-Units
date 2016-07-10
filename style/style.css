@@ -80,3 +80,9 @@
 	width: 50vw;
 	background-color: rgb(244,101,93);
 }
+/*vmin and vmax*/
+.vminandvmax{
+	height: 50vmin;
+	width: 50vmin;
+	background-color: rgb(244,101,93);
+}
