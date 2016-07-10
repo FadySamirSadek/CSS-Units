@@ -53,3 +53,23 @@
 	widows: 50%;
 	background-color: rgb(40,160,200);
 }
+/*ems*/
+.parentemsandrems{
+	font-size: 50px;
+	background-color: rgb(244,101,93);
+
+}
+.childem{
+	font-size: 0.5em;
+	background-color: rgb(40,160,200);
+
+}
+.childem2{
+	font-size: 0.5em;
+
+}
+.childrem{
+	font-size: 1rem;
+	background-color: rgb(0,185,165);
+
+}
